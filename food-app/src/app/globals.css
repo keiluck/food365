@@ -8,6 +8,8 @@
   --background-end-rgb: 255, 255, 255;
 } */
 
+
+
 :root:root {
   --adm-color-primary: #a062d4;
 }
@@ -25,5 +27,8 @@
 
 body {
   color: rgb(var(--foreground-rgb));
+  font-family: YuGothic, 'Yu Gothic',  'Hiragino Kaku Gothic ProN', sans-serif;
+  color: #222;
+  font-weight: 500;
   
 }
